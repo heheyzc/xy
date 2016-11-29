@@ -1,3 +1,2 @@
 <?php
-echo 'hello world';
-echo 'hello twice';
+echo 'hello world third';
